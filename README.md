@@ -1,6 +1,6 @@
-# 🌌 P2P Chat Application
+# P2P Chat Application
 
-> A production-grade, serverless, and secure peer-to-peer chat application built with **Go**, **LibP2P**, and **Fyne**.
+> A serverless and secure peer-to-peer chat application built with **Go**, **LibP2P**, and **Fyne**.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Go Version](https://img.shields.io/badge/go-1.21%2B-cyan)
